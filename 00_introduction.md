@@ -12,11 +12,11 @@ Particularly, HamSCI has been able to deploy receivers that use well-known time 
 
 The use of open-source amateur modes and time signals is justified by the ability of detailed waveform analysis given (e.g., phase, frequency/doppler shift).
 
-__However__, I can't seem to find anything similar for tropospheric sensing.
+__However__, I can't seem to find anything similar for citizen science-based technologies that allow for both *ionospheric* and *tropospheric* sensing.
 
 ---
 
-The closest thing that I've found from my research are __commercial microwave links__, which use information from microwave cell transmission and reception.
+The closest thing I've found from my research is __commercial microwave links__, which use information from microwave cell transmission and reception.
 
 However, since these modes are proprietary, they don't allow for detailed waveform-level analysis.
 
