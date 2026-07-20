@@ -13,7 +13,9 @@ Particularly, HamSCI has been able to deploy receivers that use well-known time 
 
 The use of open-source amateur modes and time signals is justified by the ability of detailed waveform analysis given (e.g., phase, frequency/doppler shift).
 
-__However__, I can't seem to find anything similar for citizen science-based technologies that allow for both *ionospheric* and *tropospheric* sensing.
+Existing WSPR networks intentionally compress received waveforms into a small set of robust observables (SNR, Doppler, frequency drift). This project investigates whether additional physically meaningful observables can be recovered by operating directly on the received IQ waveform prior to decoder reduction, __allowing for technology that can be used across ionospheric and tropospheric channels__.
+
+
 
 ---
 
